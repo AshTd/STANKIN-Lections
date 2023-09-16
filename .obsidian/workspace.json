@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abc99e371d332b74",
+        "id": "7c00d0ba7606c2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "9668475bdf9440db",
+            "id": "dbb0cd2d0b69abbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aboba.md",
+                "file": "Линейная Алгебра и Аналитическая Геометрия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aboba.md",
+                "file": "Линейная Алгебра и Аналитическая Геометрия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aboba.md",
+                "file": "Линейная Алгебра и Аналитическая Геометрия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aboba.md"
+                "file": "Линейная Алгебра и Аналитическая Геометрия.md"
               }
             }
           }
@@ -146,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9668475bdf9440db",
+  "active": "dbb0cd2d0b69abbd",
   "lastOpenFiles": [
-    "README.md",
-    "Aboba.md"
+    "Программирование на Языке Высокого Уровня.md",
+    "Линейная Алгебра и Аналитическая Геометрия.md",
+    "Безопасность Жизнедеятельности.md",
+    "Информатика.md",
+    "Aboba.md",
+    "README.md"
   ]
 }
