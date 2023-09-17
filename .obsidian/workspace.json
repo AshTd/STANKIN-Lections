@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f18658571830622a",
+    "id": "5b614f59305d5b7e",
     "type": "split",
     "children": [
       {
-        "id": "7c00d0ba7606c2d5",
+        "id": "e4b813c91c5d3325",
         "type": "tabs",
         "children": [
           {
-            "id": "dbb0cd2d0b69abbd",
+            "id": "a0d7f8fb339fa970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Линейная Алгебра и Аналитическая Геометрия.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0d2a3f44c7e86fd7",
+    "id": "d9dac2bb58a850de",
     "type": "split",
     "children": [
       {
-        "id": "e5a3bf8da90330bc",
+        "id": "c36d16cea6873907",
         "type": "tabs",
         "children": [
           {
-            "id": "4320e2f930331456",
+            "id": "5420cd144eba64e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "45033040a66f1b06",
+            "id": "c85c862f1f58c251",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "321dd82686419a06",
+            "id": "e6c468bec03b62aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ecb20fd60b2584fd",
+    "id": "e276b6a32cbdd208",
     "type": "split",
     "children": [
       {
-        "id": "edf67b63ff08268e",
+        "id": "a50565e9c30f23cb",
         "type": "tabs",
         "children": [
           {
-            "id": "b10d36f113aa877f",
+            "id": "a504f14198a56c6c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Линейная Алгебра и Аналитическая Геометрия.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "ac6819396f133f48",
+            "id": "c1c7730243607db1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Линейная Алгебра и Аналитическая Геометрия.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9ffccd67dc9edd8c",
+            "id": "4a2914a99831d595",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "7e1b66dad17dadd8",
+            "id": "6f84cc0c9f91b6b6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Линейная Алгебра и Аналитическая Геометрия.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,13 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbb0cd2d0b69abbd",
+  "active": "a0d7f8fb339fa970",
   "lastOpenFiles": [
     "Программирование на Языке Высокого Уровня.md",
     "Линейная Алгебра и Аналитическая Геометрия.md",
-    "Безопасность Жизнедеятельности.md",
     "Информатика.md",
-    "Aboba.md",
+    "Безопасность Жизнедеятельности.md",
     "README.md"
   ]
 }
