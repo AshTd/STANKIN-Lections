@@ -1,4 +1,7 @@
 {
   "cssTheme": "Dracula Official",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "bigger_maths"
+  ]
 }
