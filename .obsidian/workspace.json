@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование на Языке Высокого Уровня/2023-09-12.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование на Языке Высокого Уровня/2023-09-12.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование на Языке Высокого Уровня/2023-09-12.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование на Языке Высокого Уровня/2023-09-12.md"
+                "file": "README.md"
               }
             }
           }
@@ -143,19 +143,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5420cd144eba64e5",
+  "active": "a0d7f8fb339fa970",
   "lastOpenFiles": [
-    "Линейная Алгебра и Аналитическая Геометрия/2023-09-12.md",
+    "Программирование на Языке Высокого Уровня/2023-09-12.md",
+    "Линейная Алгебра и Аналитическая Геометрия/Правая Система Координат.md",
     "Информатика/2023-09-14.md",
     "Безопасность Жизнедеятельности/2023-09-15.md",
+    "Линейная Алгебра и Аналитическая Геометрия/2023-09-12.md",
     "Программирование на Языке Высокого Уровня",
     "Линейная Алгебра и Аналитическая Геометрия",
     "Информатика",
     "Безопасность Жизнедеятельности",
-    "README.md",
-    "Программирование на Языке Высокого Уровня/2023-09-12.md"
+    "README.md"
   ]
 }
